@@ -1,2 +1,2 @@
 # btex
-A experimental sports beting trading api
+A experimental sports betting trading api
